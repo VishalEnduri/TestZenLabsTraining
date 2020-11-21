@@ -1,0 +1,6 @@
+C:\############\Desktop\Test Zen Labs\Primitive\bin\Debug\Primitive.dll
+C:\############\Desktop\Test Zen Labs\Primitive\bin\Debug\Primitive.pdb
+C:\############\Desktop\Test Zen Labs\Primitive\obj\Debug\Primitive.csprojAssemblyReference.cache
+C:\############\Desktop\Test Zen Labs\Primitive\obj\Debug\Primitive.csproj.CoreCompileInputs.cache
+C:\############\Desktop\Test Zen Labs\Primitive\obj\Debug\Primitive.dll
+C:\############\Desktop\Test Zen Labs\Primitive\obj\Debug\Primitive.pdb

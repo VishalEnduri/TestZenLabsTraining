@@ -1,0 +1,6 @@
+C:\############\Desktop\Test Zen Labs\Arrays\bin\Debug\Arrays.dll
+C:\############\Desktop\Test Zen Labs\Arrays\bin\Debug\Arrays.pdb
+C:\############\Desktop\Test Zen Labs\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\############\Desktop\Test Zen Labs\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+C:\############\Desktop\Test Zen Labs\Arrays\obj\Debug\Arrays.dll
+C:\############\Desktop\Test Zen Labs\Arrays\obj\Debug\Arrays.pdb
