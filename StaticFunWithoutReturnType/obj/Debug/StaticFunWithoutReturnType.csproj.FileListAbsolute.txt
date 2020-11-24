@@ -1,0 +1,6 @@
+C:\############\Desktop\day 2\StaticFunWithoutReturnType\bin\Debug\StaticFunWithoutReturnType.exe
+C:\############\Desktop\day 2\StaticFunWithoutReturnType\bin\Debug\StaticFunWithoutReturnType.pdb
+C:\############\Desktop\day 2\StaticFunWithoutReturnType\obj\Debug\StaticFunWithoutReturnType.csprojAssemblyReference.cache
+C:\############\Desktop\day 2\StaticFunWithoutReturnType\obj\Debug\StaticFunWithoutReturnType.csproj.CoreCompileInputs.cache
+C:\############\Desktop\day 2\StaticFunWithoutReturnType\obj\Debug\StaticFunWithoutReturnType.exe
+C:\############\Desktop\day 2\StaticFunWithoutReturnType\obj\Debug\StaticFunWithoutReturnType.pdb

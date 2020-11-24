@@ -1,0 +1,6 @@
+C:\############\Desktop\day 2\Is-a-Relationship\bin\Debug\Is-a-Relationship.pdb
+C:\############\Desktop\day 2\Is-a-Relationship\obj\Debug\Is-a-Relationship.csprojAssemblyReference.cache
+C:\############\Desktop\day 2\Is-a-Relationship\obj\Debug\Is-a-Relationship.csproj.CoreCompileInputs.cache
+C:\############\Desktop\day 2\Is-a-Relationship\obj\Debug\Is-a-Relationship.pdb
+C:\############\Desktop\day 2\Is-a-Relationship\bin\Debug\Is-a-Relationship.exe
+C:\############\Desktop\day 2\Is-a-Relationship\obj\Debug\Is-a-Relationship.exe

@@ -1,0 +1,6 @@
+C:\############\Desktop\day 2\NonStaticFunWithReturnType\bin\Debug\NonStaticFunWithReturnType.pdb
+C:\############\Desktop\day 2\NonStaticFunWithReturnType\obj\Debug\NonStaticFunWithReturnType.csprojAssemblyReference.cache
+C:\############\Desktop\day 2\NonStaticFunWithReturnType\obj\Debug\NonStaticFunWithReturnType.csproj.CoreCompileInputs.cache
+C:\############\Desktop\day 2\NonStaticFunWithReturnType\obj\Debug\NonStaticFunWithReturnType.pdb
+C:\############\Desktop\day 2\NonStaticFunWithReturnType\bin\Debug\NonStaticFunWithReturnType.exe
+C:\############\Desktop\day 2\NonStaticFunWithReturnType\obj\Debug\NonStaticFunWithReturnType.exe
